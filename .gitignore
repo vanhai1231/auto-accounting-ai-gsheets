@@ -4,3 +4,5 @@ __pycache__/
 *.env
 *.json
 credentials.json
+config/service_account.json
+logs/
